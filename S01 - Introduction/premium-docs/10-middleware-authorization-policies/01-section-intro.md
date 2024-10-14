@@ -1,0 +1,5 @@
+# Middleware & Authorization
+
+We now have the ability to register users and authenticate. However, there is no purpose at the moment. Now we want to do a few things. First, we want to protect certain routes from guests and from auth users. We do this with something called middleware. So we'll learn about middleware. We also need to make it so that when we create a job listing, the user id from the session is put in the database with that job. 
+
+Then we can start to talk about policies, which allow us to authorize certain users to do certain actions. For instance, only the job listing owner should be able to update and delete that job. So this secion is all about authorization and access control. One other thing I want to do is create another seeder that will quickly create a user for us that we can log in as and also make that user own a couple job listings.

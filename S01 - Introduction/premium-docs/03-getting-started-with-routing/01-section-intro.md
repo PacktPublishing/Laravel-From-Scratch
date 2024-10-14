@@ -1,0 +1,5 @@
+# Getting Started With Routing
+
+Now that we have Laravel up and running, in this section I want to start off by looking at the file and folder structure. We're also going to talk about the MVC design pattern that Laravel adheres to. 
+
+Then we're going to get into routing because that is the entry point of your application. We'll be working in the main routes file and we'll set up endpioints that can be sent an HTTP request and we'll decide how to respond to those requests. So what do we want to do if a get request is made to /jobs/create or a post request to /jobs. I'll show you how to work with dynamic routes by taking in route parameters for things like IDs and how to add rules and contraints on them. We'll also be looking at the request object and query params and the response helper that laravel provides to work with HTTP requests.

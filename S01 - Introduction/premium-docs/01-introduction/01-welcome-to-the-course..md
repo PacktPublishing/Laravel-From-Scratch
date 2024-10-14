@@ -1,0 +1,11 @@
+# Welcome To The Course
+
+Hey guys welcome to my Laravel From Scratch course. This course was a long time in the making. I;ve had people asking for it for about two years now. So I spent the last 4 months or so creating it and as with most of my courses, it's project based. In fact the project may look famililar to you if you took my PHP from scratch course. It's a new and improved Workopia job listing website. Ill go over a demo in the next video but we added things like bookmarking and applying to jobs throught website.
+
+Now even though this is  project based, it's not just rush through and copy what I type. I stop and take the time to explain every line of code and go off script a little bit to explain certain things. You're going to learn all about routes, controllers, models, views with UI components, migrations, the Artisin CLI and much more. You'll learn the tools to help you start building your own Laravel projects. At the end, we'll be deploying with Laravel Forge and Digital Ocean and we'll hook up a domain and an SSL. So it's a very thorough project.
+
+Now for the past 6 or 7 courses, I've included what I call the premium docs as long as the course was purchased at traversymedia.com. However for this course, I decided to included the premium docs no matter where it's purchased. These docs are essentially a written version of the entire course. There's a markdown file for every video lesson with code samples as well as written explanations. So you can use that as a supplement to the videos.
+
+As far as who should take this course, I would say anyone that knows the fundamentals of PHP. I won't be explaining what loops and functions are or how to structure arrays. You should know that stuff and if you don't I would just suggest taking my PHP from Scratch course first and building that version of the Workopia website.
+
+So like I said, we'll take a quick look at the main project and then we'll talk a little bit about what Laravel is and what it includes, we'll setup our enviroment and then we'll start learning and building. See you in the next video.

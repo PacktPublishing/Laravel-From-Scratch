@@ -1,0 +1,5 @@
+# Database & Migrations
+
+Now that we have our header, hero and some other components, I want to start to think about data. With Laravel, you can use a bunch of different databases and I'll be using Postgres, but what's really cool is if you want to use MySQL or even SQLite, all you need to change is the config values in the .env file. The rest of the code is the exact same.
+
+So we're going to install Postgres and a destop tool called PGAdmin and then we're going to start to learn about database migrations, which are versioned timestamped files used to create tables and schemas. We're going to run the default migrations that Laravel comes with for things like the users table and we're going to create our own migration for the job_listings table. Once we do that, we can start to create models and the Eloquent ORM.

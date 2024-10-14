@@ -1,0 +1,5 @@
+# Pages, Presentation & CRUD
+
+So we have our data ready and we have some of the functionality of fetching and creating jobs with a title and description. Now we want to start building the presentation of the website and showing all the job listing data as well as creating new jobs with all the fields and form values. We'll create a nice looking job card component. We also want to be able to update and delete jobs. So at the end of this section, we'll have full CRUD functionaliy and it will look good. We're also going to learn about things like flash messages and we'll create an alert component to say when a job has been created or updated.
+
+I'm also going to introduce Alpine.js in this section, which is a lightweight JavaScript library that gives you custom attributes you can use in your Blade templates to make your UI interactive. We're going to be able to dismiss the alert messages. We'll also re-factor the mobile menu button to use Alpine rather than vanilla Javascript. Alpine is very popular in the Laravel world. So let's get into it.
